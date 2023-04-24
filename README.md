@@ -3,7 +3,7 @@
 **Game of Tenzies!**  
 
 
-![image](https://user-images.githubusercontent.com/13519212/234112409-2bab6e7d-cc99-4b04-b5fb-7aca2f75a81e.png)
+![image](https://user-images.githubusercontent.com/13519212/234112846-d88ea5e7-4bce-4e09-9232-40831e893fa9.png)
 
 **Features:**  
 Keeps track of rolls  
