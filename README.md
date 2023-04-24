@@ -7,7 +7,7 @@
 
 **Features:**  
 Keeps track of rolls  
-Store best score in LocalStorage  
+Stores best score in LocalStorage  
 
 Stack: React, Vite  
  
