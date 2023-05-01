@@ -10,6 +10,9 @@ Keeps track of rolls
 Stores best score in LocalStorage  
 
 Stack: React, Vite  
+
+## Live demo:
+https://rad-starlight-62d355.netlify.app/
  
 ## Setup   
  ```npm install```  
